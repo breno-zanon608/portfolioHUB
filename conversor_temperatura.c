@@ -10,3 +10,6 @@ int main() {
   printf("A temperatura em escala absoluta é: %f" , tf);
 
 }
+
+gcc temperatura.c -o resultado
+./resultado
