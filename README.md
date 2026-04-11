@@ -45,7 +45,6 @@ Projeto desenvolvido em linguagem C com o objetivo de aplicar conceitos iniciais
 
 🔗 Acesse o projeto:  
 [Conversor de Temperatura](https://github.com/breno-zanon608/portfolioHUB/blob/main/image.png)
-
 ---
 
 ### 🔹 Cálculo da Área de um Trapézio
