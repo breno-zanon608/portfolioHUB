@@ -7,7 +7,7 @@ Sou estudante do 1º semestre de Engenharia de Software, com interesse em desenv
 ### 📞 Contato
 
 - 📧 E-mail: breno.zanon07@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/breno-zanon/
+- 💼 LinkedIn: [Breno Zanon](https://www.linkedin.com/in/breno-zanon/)
 - 🌍 Localização: Brasília - Distrito Federal
 
 ---
