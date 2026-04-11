@@ -53,7 +53,7 @@ Projeto desenvolvido em linguagem C com o objetivo de aplicar conceitos iniciais
 Projeto desenvolvido em linguagem C para aplicação de conceitos matemáticos e estruturais de programação.
 
 🔗 Acesse o projeto:  
-[Calcular área do trapézio](https://github.com/breno-zanon608/portfolioHUB/blob/main/area_trapezio.c)
+[Calcular área do trapézio](https://github.com/breno-zanon608/portfolioHUB/blob/main/area%20trapezio.jpeg)
 ---
 
 ## ⚡  Habilidades e Competências
