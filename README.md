@@ -1,4 +1,4 @@
-![Foto de Perfil](https://github.com/breno-zanon608/portfolioHUB/raw/main/eu.jpeg)
+![Foto de Perfil](https://github.com/breno-zanon608/portfolioHUB/blob/main/eu.jpeg)
 
 # 👨‍💻 Breno Zanon de Sousa
 
