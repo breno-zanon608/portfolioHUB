@@ -15,25 +15,8 @@ Sou estudante do 1º semestre de Engenharia de Software, com interesse em desenv
 ---
 
 ## 📄  Currículo
+[Clique aqui para acessar o currículo de Breno Zanon](https://github.com/breno-zanon608/portfolioHUB/blob/main/Curr%C3%ADculo.pdf)
 
-### 🎓 Formação Acadêmica
-- Graduação em Engenharia de Software (em andamento – 1º semestre)
-- Ensino Médio Completo
-
-### 🌍 Idiomas
-- Inglês – nível intermediário
-
-### 🧠 Experiências Acadêmicas
-- Participação no evento **"Evento Google: A nova era da Inovação"**, realizado em Brasília, com foco em Inteligência Artificial e inovação tecnológica.
-
-### ⚙️ Habilidades Técnicas
-- Programação em linguagem C  
-- Lógica de programação  
-
-### 🤝 Habilidades Pessoais
-- Organização  
-- Pensamento analítico  
-- Facilidade de aprendizado  
 
 ---
 
