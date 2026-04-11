@@ -59,7 +59,7 @@ Projeto desenvolvido em linguagem C para aplicação de conceitos matemáticos e
 Apresentação das minhas principais habilidades técnicas e competências:
 
 [Slide das principais habilidades técnicas e competências](https://github.com/breno-zanon608/portfolioHUB/blob/main/pdf%20competencias.pdf)
-
+---
 Atualmente, minhas principais competências incluem:
 
 - Lógica de programação  
