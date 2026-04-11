@@ -16,8 +16,6 @@ Sou estudante do 1º semestre de Engenharia de Software, com interesse em desenv
 
 ## 📄  Currículo
 [Clique aqui para acessar o currículo de Breno Zanon](https://github.com/breno-zanon608/portfolioHUB/blob/main/Curr%C3%ADculo.pdf)
-
-
 ---
 
 ## 💻  Projetos Acadêmicos e Profissionais
