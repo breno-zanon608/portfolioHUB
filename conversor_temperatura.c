@@ -6,10 +6,8 @@ int main() {
   float tf;
   printf("Digite um valor em Celsius: ");
   scanf("%f" , &tc);
-  tf = (9*tc +160) / 5 ;
+  tf = (tc * 9/5) + 32; 
   printf("A temperatura em escala absoluta é: %f" , tf);
 
 }
 
-gcc temperatura.c -o resultado
-./resultado
