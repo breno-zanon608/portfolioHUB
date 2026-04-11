@@ -12,7 +12,7 @@ Sou estudante do 1º semestre de Engenharia de Software, com interesse em desenv
 
 ---
 
-## 📄 2. Currículo
+## 📄  Currículo
 
 ### 🎓 Formação Acadêmica
 - Graduação em Engenharia de Software (em andamento – 1º semestre)
@@ -35,7 +35,7 @@ Sou estudante do 1º semestre de Engenharia de Software, com interesse em desenv
 
 ---
 
-## 💻 3. Projetos Acadêmicos e Profissionais
+## 💻  Projetos Acadêmicos e Profissionais
 
 ### 🔹 Conversor de Temperatura (Celsius para Fahrenheit)
 
@@ -55,7 +55,7 @@ https://colab.research.google.com/drive/1mvy5vBurDq2fOpxikXlQvO08MpccDc1T?usp=sh
 
 ---
 
-## ⚡ 4. Habilidades e Competências
+## ⚡  Habilidades e Competências
 
 Atualmente, minhas principais competências incluem:
 
@@ -66,13 +66,13 @@ Atualmente, minhas principais competências incluem:
 
 ---
 
-## 🗣️ 5. Recomendações e Testemunhos
+## 🗣️  Recomendações e Testemunhos
 
 No momento, ainda não possuo recomendações formais. Esta seção será atualizada futuramente com feedbacks de professores e colegas ao longo da minha formação acadêmica.
 
 ---
 
-## ➕ 6. Outros
+## ➕  Outros
 
 ### 🎤 Participação em Eventos
 - **Evento Google: A nova era da Inovação** – Brasília  
