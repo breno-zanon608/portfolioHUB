@@ -51,8 +51,7 @@ https://github.com/breno-zanon608/portfolioHUB/blob/main/conversor_temperatura.c
 Projeto desenvolvido em linguagem C para aplicação de conceitos matemáticos e estruturais de programação.
 
 🔗 Acesse o projeto:  
-https://colab.research.google.com/drive/1mvy5vBurDq2fOpxikXlQvO08MpccDc1T?usp=sharing
-
+https://github.com/breno-zanon608/portfolioHUB/blob/main/area_trapezio.c
 ---
 
 ## ⚡  Habilidades e Competências
