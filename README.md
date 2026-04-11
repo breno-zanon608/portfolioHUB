@@ -1,4 +1,3 @@
-![Foto de Perfil](https://github.com/breno-zanon608/portfolioHUB/raw/main/eu.jpeg)
 <img src="https://github.com/breno-zanon608/portfolioHUB/raw/main/eu.jpeg" width="150">
 
 # 👨‍💻 Breno Zanon de Sousa
