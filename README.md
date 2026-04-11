@@ -42,7 +42,7 @@ Sou estudante do 1º semestre de Engenharia de Software, com interesse em desenv
 Projeto desenvolvido em linguagem C com o objetivo de aplicar conceitos iniciais de programação.
 
 🔗 Acesse o projeto:  
-https://colab.research.google.com/drive/1aFklMXP97PkNqu1XBf_oe-nK6dRhtqEh?usp=sharing
+https://github.com/breno-zanon608/portfolioHUB/blob/main/conversor_temperatura.c
 
 ---
 
