@@ -15,7 +15,7 @@ Sou estudante do 1º semestre de Engenharia de Software, com interesse em desenv
 ---
 
 ## 📄  Currículo
-[Clique aqui para acessar o currículo de Breno Zanon](https://github.com/breno-zanon608/portfolioHUB/blob/main/Curr%C3%ADculo.pdf)
+[Clique aqui para acessar o currículo de Breno Zanon](https://github.com/breno-zanon608/portfolioHUB/blob/main/Curr%C3%ADculo%20(1).pdf)
 
 
 Busco oportunidade de estágio na área de Engenharia de Software, com o objetivo de aplicar e desenvolver conhecimentos em programação, contribuindo para soluções tecnológicas e adquirindo experiência prática no setor.
